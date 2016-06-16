@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  AutoLayout
 //
-//  Created by Daniel Autenrieth on 16/06/16.
+//  Created by Brian Adventon 16/06/16.
 //  Copyright © 2016 Brian Advent. All rights reserved.
 //
 

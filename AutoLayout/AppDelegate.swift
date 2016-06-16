@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AutoLayout
 //
-//  Created by Daniel Autenrieth on 16/06/16.
+//  Created by Brian Advent on 16/06/16.
 //  Copyright © 2016 Brian Advent. All rights reserved.
 //
 
